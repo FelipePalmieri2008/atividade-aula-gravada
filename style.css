@@ -1,0 +1,25 @@
+body{background-color: rgb(153, 203, 218);}
+
+h1{color: rgb(255, 51, 0);}
+
+h1{border-color: rgb(167, 19, 19);
+border-width: 10px;
+border-style: outset;}
+h1{text-align: center;
+    margin-inline: 25%;}
+
+
+h2{border-color: rgb(0, 0, 0);
+    border-width: 10px;
+    border-style: double;}
+h2{text-align: center;
+    margin-inline: 25%;}
+
+
+h3{border-color: rgb(0, 0, 0);
+    border-width: 10px;
+    border-style: double;
+    margin-inline: 25%;}
+
+
+.parte1{text-align: center;}
